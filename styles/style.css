@@ -187,6 +187,10 @@
   margin-block-start: 10px;
 }
 
+.main__section_gallery .main__subtitle {
+  margin-block-end: 0;
+}
+
 .main__section_list {
   display: grid;
   gap: 20px;
