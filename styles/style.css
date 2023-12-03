@@ -289,6 +289,10 @@
     grid-template-columns: repeat(3, 1fr);
   }
 
+  .main__section_gallery .main__subtitle {
+  margin-block-end: 10px;
+}
+
   .main__section_gallery-list-item:first-child {
     grid-column-start: span 2;
   }
