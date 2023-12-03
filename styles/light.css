@@ -13,10 +13,13 @@
   --heading-color-dark: #353430;
   --text-color-dark: #353430;
   --main-heading-color-dark: #FFC2E6;
+  --text-shadow: #FF0070;
   --bg-color-dark: #FFF1F7;
   --page-font-dark: 'IBM Plex Mono', monospace;
   --page-bg-img-dark: url('../images/cover-image-light.png');
   --rec-visible: hidden;
+  --color-menu: #353430;
+  --title-color: #353430;
 }
 
 @media (prefers-color-scheme: light) {
@@ -25,9 +28,12 @@
   --heading-color-dark: #353430;
   --text-color-dark: #353430;
   --main-heading-color-dark: #FFC2E6;
+  --text-shadow: #FF0070;
   --bg-color-dark: #FFF1F7;
   --page-font-dark: 'IBM Plex Mono', monospace;
   --page-bg-img-dark: url('../images/cover-image-light.png');
   --rec-visible: hidden;
+  --color-menu: #353430;
+  --title-color: #353430;
 }
 }

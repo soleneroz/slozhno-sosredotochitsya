@@ -8,6 +8,9 @@
   --text-color-dark: #F1B2CE;
   --main-heading-color-dark: #DB00FF;
   --bg-color-dark: #000028;
+  --text-shadow: #FF0070;
   --page-font-dark: 'IBM Plex Mono', monospace;
   --page-bg-img-dark: url('../images/cover-image-dark.png');
+  --color-menu: #FF0070;
+  --title-color: #FF0070;
 }
