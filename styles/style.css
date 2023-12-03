@@ -189,7 +189,7 @@
 @media (width >= 768px) {
   .header__heading-subtitle {
     justify-self: end;
-    inline-size: 364px;
+    inline-size: 22.75rem;
   }
 
   .header__theme-menu {
@@ -272,6 +272,7 @@
     justify-self: center;
     align-self: start;
     margin-block-start: 0;
+    margin-block-end: 13.1rem;
   }
 
   .main__section_list-accent {
@@ -280,11 +281,11 @@
 
   .page__heading {
     font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
-    align-self: center;
+    align-self: start;
   }
 
   .header__heading-subtitle {
-    inline-size: 491px;
+    inline-size: 30.7rem;
   }
 
   .header__theme-menu-list {
