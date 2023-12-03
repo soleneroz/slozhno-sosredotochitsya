@@ -13,4 +13,6 @@
   --page-bg-img-dark: url('../images/cover-image-dark.png');
   --color-menu: #FF0070;
   --title-color: #FF0070;
+  --page-heading: #DB00FF;
+  --hover-menu: rgba(255, 0, 112, 0.40);
 }

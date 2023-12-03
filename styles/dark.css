@@ -20,6 +20,8 @@
   --rec-visible: visible;
   --color-menu: #FF0070;
   --title-color: #FF0070;
+  --page-heading: #DB00FF;
+  --hover-menu: rgba(255, 0, 112, 0.40);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -35,5 +37,7 @@
   --rec-visible: visible;
   --color-menu: #FF0070;
   --title-color: #FF0070;
+  --page-heading: #F1B2CE;
+  --hover-menu: rgba(255, 0, 112, 0.40);
 }
 }
