@@ -140,12 +140,17 @@
 
 .link {
   text-decoration: none;
+}
+
+.text-shadow-link:hover {
   text-shadow: 2px 2px 0 var(--text-shadow, #FF0070);
+  text-decoration: none;
 }
 
 .link:hover {
   cursor: pointer;
   text-decoration: underline;
+  text-underline-position: under;
 }
 
 .link:focus {
@@ -172,10 +177,13 @@
   margin-block-end: 10px;
 }
 
+
+
 .main__subtitle-action {
   font-weight: 400;
   color: var(--heading-color-dark, #000028);
   margin-block-end: 10px;
+  margin-block-start: 10px;
 }
 
 .main__section_list {
