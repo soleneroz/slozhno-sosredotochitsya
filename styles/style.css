@@ -177,12 +177,13 @@
   margin-block-end: 10px;
 }
 
-
-
 .main__subtitle-action {
   font-weight: 400;
   color: var(--heading-color-dark, #000028);
   margin-block-end: 10px;
+}
+
+.main__subtitle-action:first {
   margin-block-start: 10px;
 }
 
